@@ -22,6 +22,8 @@
     "com.unity.modules.unitywebrequest": "1.0.0",
     "com.unity.modules.unitywebrequestaudio": "1.0.0",
     "com.unity.modules.unitywebrequesttexture": "1.0.0",
-    "com.unity.modules.unitywebrequestwww": "1.0.0"
-  }
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.learnings.unity.log": "1.1.0"
+  },
+  "registry": "https://internal-sdk.lexinshengwen.com/upm"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "com.learnings.unity.log",
+  "version": "1.1.0",
+  "displayName": "log-unity",
+  "description": "Print log for unity",
+  "unity": "2017.1",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "Learnings",
+    "email": "",
+    "url": ""
+  }
+}

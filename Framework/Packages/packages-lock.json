@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.learnings.unity.log": {
+      "version": "1.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://internal-sdk.lexinshengwen.com/upm"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -11,7 +18,7 @@
       "depth": 2,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.com"
+      "url": "https://internal-sdk.lexinshengwen.com/upm"
     },
     "com.unity.ide.rider": {
       "version": "1.1.4",
@@ -20,7 +27,7 @@
       "dependencies": {
         "com.unity.test-framework": "1.1.1"
       },
-      "url": "https://packages.unity.com"
+      "url": "https://internal-sdk.lexinshengwen.com/upm"
     },
     "com.unity.test-framework": {
       "version": "1.1.22",
@@ -31,7 +38,7 @@
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
-      "url": "https://packages.unity.com"
+      "url": "https://internal-sdk.lexinshengwen.com/upm"
     },
     "com.unity.textmeshpro": {
       "version": "2.1.1",
@@ -40,7 +47,7 @@
       "dependencies": {
         "com.unity.ugui": "1.0.0"
       },
-      "url": "https://packages.unity.com"
+      "url": "https://internal-sdk.lexinshengwen.com/upm"
     },
     "com.unity.ugui": {
       "version": "1.0.0",
